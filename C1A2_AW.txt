@@ -1,0 +1,31 @@
+// Assignment 2 pt 1
+
+
+pwd
+cd ~/Sites
+mkdir -p my-awesome-directory/nested-directory
+pwd
+cd ./my-awesome-directory/nested-directory
+pwd
+touch hello.txt
+cd ~/Sites
+touch terminals-are-fun.txt
+
+
+
+
+
+// Assignment 2 pt 2
+
+cd ~/Sites
+pwd
+mkdir -p 1/2/3/4/5/6/7/8/9/hello/its/me/
+pwd
+cd ./1/2/3/4/5/6/7/8/9/hello/its/me/
+pwd
+touch adele.jpg
+
+cd ~/Sites
+mkdir -p ./i/was/wondering/if/after/all/these/years/you would/like/to
+cd ./i/was/wondering/if/after/all/these/years/you would/like/to
+touch meet.jpg
